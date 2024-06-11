@@ -1,0 +1,11 @@
+https://drive.google.com/drive/folders/1yQmsOuvaFxmrQUgGzh3c9FUf8BFcXI8i?usp=sharing drive de curso.
+
+https://learn.microsoft.com/en-us/dotnet/visual-basic/ doc visial.
+
+https://visualstudio.microsoft.com/es/downloads/ instalar visual.
+
+ejercicios:
+
+- https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=236:ejercicios-resueltos-en-visual-basic-con-forms-labels-textbox-y-buttons-command-ejemplos-cu00322a&catid=37&Itemid=61
+
+- https://parzibyte.me/blog/2022/11/15/ejercicios-resueltos-visual-basic-vb-net/
