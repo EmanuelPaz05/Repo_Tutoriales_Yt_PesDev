@@ -1,13 +1,13 @@
 <?php
 
-$url = 'https://graph.facebook.com/v19.0/344789888711746/messages';
-$token = 'EAANvayfj0k0BO7nMvB9Eux8ZBfyQnHdvUFTiP0fOIhdhkNu1bHKhYIYaoCTIHEROC4CTCI429CxW3UpsMuW1YhtUsfZA7zBba3s1ysZCqlRvFoZCIZAT6td8CHduvzHZCegS22mj1kIxm6RB2To6HSibq97nKJH6DZAvlDmJcmNYXXtXeWZAAXpSI8n2qImuhn3ygtdzmZA8kGb0IGunY';
+$url = '';
+$token = '';
 
 
 $data = array(
     "messaging_product" => "whatsapp",
     "recipient_type" => "individual",
-    "to" => "+5435726062288",
+    "to" => "numero a quien llega",
     "type" => "template",
     "template" => array(
         "name" => "inicia",
